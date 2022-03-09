@@ -1,0 +1,30 @@
+<div class="row mb-2">
+                <div class="col-md">
+                     <!-- <label for="Unit" class="form-label">Unit</label> -->
+                    <input type="text" class="form-control" placeholder="Unit" id="Unit">
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-md">
+                    <!-- <label for="Discount" class="form-label">Discount</label> -->
+                    <input type="text" class="form-control" placeholder="Discount" id="Discount">
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-md-12">
+                     <!-- <label for="remark" class="form-label">Remark</label> -->
+                     <textarea class="form-control" placeholder="Remark"></textarea>
+                </div>
+            </div>
+
+
+            <div class="row mb-2">
+                <!-- <div class="col-md">
+                    <label for="Price" class="form-label">Price</label>
+                    <input type="text" class="form-control" id="Price">
+                </div> -->
+                <div class="col-md">
+                     <!-- <label for="Quantity" class="form-label">Quantity</label> -->
+                    <input type="text" placeholder="Quantity" class="form-control" id="Quantity">
+                </div>
+            </div>
